@@ -1,0 +1,20 @@
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color:#feeeff;
+  padding: 30px;
+}
+
+.button-container {
+  height:60px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.seach-container {
+  margin-bottom: 30px;
+}
+
+.seach-container h1 {
+  margin-bottom: 30px;
+}
